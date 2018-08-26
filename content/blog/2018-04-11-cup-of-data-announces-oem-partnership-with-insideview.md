@@ -5,7 +5,7 @@ title: Data Cup Announces OEM Partnership with InsideView
 date: '2018-04-11T15:15:30-04:00'
 summary: >-
   Data Cup marketing science solution integrates InsideView to enhance ABM
-  Campaigns 
+  Campaigns
 
   for SaaS B2B sellers and marketers.
 author: Data Cup Team
@@ -16,7 +16,7 @@ tags:
 ---
 # Data Cup Announces OEM Partnership with InsideView
 
-ATLANTA, GA – April 10th, 2018 –  Data Cup, marketing science solution for SaaS B2B companies, today announced a strategic OEM partnership with InsideView. Data Cup powers ABM campaigns with smart data and predictive analytics to facilitate deeper engagement within accounts. Utilizing InsideView’s API, Data Cup augments their behavior data with InsideView’s rich account and contact data allowing end-users to target the right customer faster with a combination of machine and deep learning for more successful ABM sales and marketing programs.
+Berlin, Germany – April 10th, 2018 –  Data Cup, marketing science solution for SaaS B2B companies, today announced a strategic OEM partnership with InsideView. Data Cup powers ABM campaigns with smart data and predictive analytics to facilitate deeper engagement within accounts. Utilizing InsideView’s API, Data Cup augments their behavior data with InsideView’s rich account and contact data allowing end-users to target the right customer faster with a combination of machine and deep learning for more successful ABM sales and marketing programs.
 
 "InsideView's rich demographic and firmographic data is a smart complement to our AI solution because it provides our customers with a complete picture of their prospects, when combined with our intent data..” said Greg Werner, Chief Product Officer at Data Cup. "Our AI solution is now considerably stronger at reading behavioral patterns in the data to signal intent for our customers and generate precise target lists for campaigns.”
 
@@ -28,7 +28,7 @@ For more information about Data Cup visit www.datacup.net to set up a demo today
 
 ## **About Data Cup**
 
-Data Cup is a marketing science solution created to enhance quality lead generation for B2B marketers in high growth SaaS organizations. Data Cup offers simple lead identification for B2B account-based marketing (ABM) with its powerful predictive audience solution. For more information visit Data Cup at www.datacup.net, Twitter, or read the blog at https://www.datacup.net. 
+Data Cup is a marketing science solution created to enhance quality lead generation for B2B marketers in high growth SaaS organizations. Data Cup offers simple lead identification for B2B account-based marketing (ABM) with its powerful predictive audience solution. For more information visit Data Cup at www.datacup.net, Twitter, or read the blog at https://www.datacup.net.
 
 ## **About InsideView**
 

@@ -133,17 +133,17 @@ export default function ContactSection({ data }) {
             <ContactUs>CONTACT US</ContactUs>
             <Address>
               Data Cup
-              <br />3341 Sinclair Street<br />
-              Atlanta, GA 30305
+              <br />WühlischStr 31<br />
+              Berlin, 10245, Germany
             </Address>
             <ShareIcon>
-              <A href="https://www.facebook.com/Cup-of-Data-143732069623215/">
+              <A href="https://www.facebook.com/">
                 <Icon className="fab fa-facebook-square fa-2x" />
               </A>
-              <A href="https://twitter.com/cupofdata">
+              <A href="https://twitter.com/">
                 <Icon className="fab fa-twitter fa-2x" />
               </A>
-              <A href="https://www.linkedin.com/company/11433034/">
+              <A href="https://www.linkedin.com/company/">
                 <Icon className="fab fa-linkedin fa-2x" />
               </A>
             </ShareIcon>

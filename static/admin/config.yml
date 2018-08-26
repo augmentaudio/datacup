@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: augmentaudio/cupofdata
+  repo: augmentaudio/datacup
 
 media_folder: "/static/files/images"
 public_folder: "/files/images"
