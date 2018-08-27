@@ -23,6 +23,15 @@ module.exports = class HTML extends React.Component {
     return (
       <html {...this.props.htmlAttributes}>
         <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-16506380-15"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-16506380-15');
+        </script>
           <meta charSet="utf-8" />
           <meta httpEquiv="x-ua-compatible" content="ie=edge" />
           <meta
@@ -41,6 +50,7 @@ module.exports = class HTML extends React.Component {
           />
           {this.props.postBodyComponents}
         </body>
+
       </html>
     )
   }
