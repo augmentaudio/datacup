@@ -12,7 +12,7 @@ members:
   - fullname: Micheal Roach
     photo: /files/images/pete.png
     position: DevOps
-  - fullname: Christoph Goldstein
+  - fullname: Christoph Leart
     photo: /files/images/cristoph.png
     position: Developer
   - fullname: Anna Castilano
