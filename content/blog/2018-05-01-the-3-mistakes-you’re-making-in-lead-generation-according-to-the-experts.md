@@ -8,7 +8,7 @@ summary: >-
   professionals understand best practices for B2B lead management and use data
   science to obtain better results.
 author: Timara Frassrand
-postimage: /files/images/michael-dam-258165-unsplash-3771188870_315x473.jpg
+postimage: /files/images/meeting.jpg
 newsFlag: false
 tags:
   - name: ABM
@@ -20,7 +20,7 @@ tags:
 
 In the B2B industry, conversions are used on a daily basis to define campaign goals and to ultimately lead to improved marketing ROI and sales, whether that comes from new customers, improved existing customer retention, or helping to move customers up the value chain with other products and services.
 
-As an ABM solution company, here at Data Cup, we are constantly innovating to improve our services and to provide the best solutions to assist in lead generation for our client’s conversion goals. Recently, we decided to turn our passion into a one-day forum bringing together B2B marketing and sales professionals and data scientists to hold sessions at the [Conversion Data Pop Up](https://conversiondatapopup.datacup.net/?utm_source=blog&utm_medium=CTA&utm_campaign=Conversion%20Data%20PopUp) in Atlanta on May 22nd.
+As an ABM solution company, here at Data Cup, we are constantly innovating to improve our services and to provide the best solutions to assist in lead generation for our client’s conversion goals. Recently, we decided to turn our passion into a one-day forum bringing together B2B marketing and sales professionals and data scientists to hold sessions at the Conversion Data Pop Up in Atlanta on May 22nd.
 
 We’ve lined up the most prominent experts in the B2B sales and marketing space to share use cases and techniques and, most importantly, insights on how they are utilizing machine learning and AI to improve their conversions. 
 
