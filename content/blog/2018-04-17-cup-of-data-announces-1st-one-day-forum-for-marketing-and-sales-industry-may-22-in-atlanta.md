@@ -2,15 +2,15 @@
 contentType: blog
 path: /blog/conversion-data-popup-event
 title: >-
-  Data Cup Announces 1st One-Day Forum for Marketing and Sales Industry
-  October 3rd in Atlanta
+  Data Cup Announces 1st One-Day Forum for Marketing and Sales Industry October
+  3rd in Atlanta
 date: '2018-05-18T12:58:36-04:00'
 summary: >-
-  Data Cup will be hosting their 1st ever one day pop up conference in
-  Atlanta for the B2B marketing and sales industry, Wednesday October 3rd at the
-  Atlanta Tech Village in Atlanta, Georgia.
+  Data Cup will be hosting their 1st ever one day pop up conference in Atlanta
+  for the B2B marketing and sales industry, Wednesday October 3rd at the Atlanta
+  Tech Village in Atlanta, Georgia.
 author: Data Cup
-postimage: /files/images/conversion_banner.png
+postimage: /files/images/atlanta.jpg
 newsFlag: true
 tags:
   - name: News
@@ -41,15 +41,8 @@ Data Cup is a marketing science ABM solution for B2B marketing and sales executi
 **Contacts:
 **
 
-For media inquiries:
+For media and sponsorship Inquiries:
 
-Timara Frassrand
+Amish Anisin
 
-[timara@datacup.net
-](mailto:timara@datacup.net)
-
-For Sponsorship Inquiries:
-
-Anna Anisin
-
-[Anna@formulated.by](mailto:anna@formulated.by)
+Amish@vault12.com
