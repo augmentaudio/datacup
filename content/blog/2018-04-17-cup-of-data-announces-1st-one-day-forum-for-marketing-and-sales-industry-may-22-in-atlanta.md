@@ -41,15 +41,8 @@ Data Cup is a marketing science ABM solution for B2B marketing and sales executi
 **Contacts:
 **
 
-For media inquiries:
+For media and sponsorship Inquiries:
 
-Timara Frassrand
+Amish Anisin
 
-[timara@datacup.net
-](mailto:timara@datacup.net)
-
-For Sponsorship Inquiries:
-
-Anna Anisin
-
-[Anna@formulated.by](mailto:anna@formulated.by)
+Amish@vault12.com
