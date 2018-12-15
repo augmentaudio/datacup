@@ -96,7 +96,7 @@ const SignupPage = () => (
             <div className="inner">
             <Formwrap>
                   <Subtext>When you want to save time on finding leads, this is the way to go...</Subtext>
-                  <form name="signup" action="https://formspree.io/xwbglkam" method="POST">
+                  <form name="signup" action="https://usebasin.com/f/1a517a20624b" method="POST">
                     <Fieldinline>
                           <Fieldlabel>Email</Fieldlabel>
                           <input type="text" name="email" id="email"/>
